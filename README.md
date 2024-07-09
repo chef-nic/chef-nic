@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @iNicholasJohnson
+- 👋 Hi, I’m @chef-nic
+- 🔥 I'm currently cooking up a cool app.
 - 👀 I’m interested in iOS development, health and nutrition, and creating apps that make people's lives easier.
 - 🌱 I’m currently learning SwiftUI and SwiftData, focusing on building robust, user-friendly applications.
 - 📫 How to reach me: nicho.johnson@gmail.com
