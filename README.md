@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @chef-nic
+- 👀 I’m passionate about building impactful and user-friendly applications
+- 🌱 I’m continuously expanding my expertise in iOS development
+- 📫 You can reach me at nicho.johnson@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun Facts: I completed the San Francisco Marathon
